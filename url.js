@@ -5,7 +5,6 @@ window.urls = {
     'https://hthvip1.app/?i_code=2810305',               //全站app
     'https://hthbet1.app/?i_code=2810305',               //体育app
     'http://htbet2052.com',                                //备用1
-    'http://htbet2052.com',                                //备用2
-    '<script type="text/javascript" src="https://s4.cnzz.com/z_stat.php?id=1279526731&web_id=1279526731"></script>' //统计
+    'http://htbet2052.com'                                //备用2
   ]
 }
